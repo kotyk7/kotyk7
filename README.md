@@ -1,7 +1,5 @@
-<div align="center">
-	<br>
-	<br>
-	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-	<br>
-	<br>
-</div>
+# 🎉 Hi there, my name's Dominik.
+## I like to do a lot of weird, random and useless work  
+
+My GitHub Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kotyk7)](https://github.com/anuraghazra/github-readme-stats)
