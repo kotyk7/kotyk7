@@ -1,4 +1,3 @@
-# 🎉 Hi there, my name's Dominik.
-## I like to do a lot of weird, random and useless stuff  
+# 🎉 Hi there!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kotyk7)](https://github.com/anuraghazra/github-readme-stats)
+![kotyk7's github stats](https://github-readme-stats.vercel.app/api?username=kotyk7&show_icons=true&theme=merko)
